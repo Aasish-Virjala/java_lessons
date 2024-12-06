@@ -47,3 +47,15 @@ To download Java, follow the instructions below for your operating system:
 - Create Main class to run a simulation
 - Create 2 Car objects, as well as a simulation function
 - Run simulation to see which Car wins the race given time input from the user
+
+# How to run what we have so far
+
+As long as you have completed up to where we are in the class, you can run:
+
+`javac Main.java`
+
+followed by:
+
+`java Main`
+
+Enter the amount of time you want to run the simulation for, and watch the result.
